@@ -1,0 +1,14 @@
+uuid: 18e589ea-a15f-44f7-b3c5-ce01892e74c6
+name: D8Themes
+mail: kumarlakshay11@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
